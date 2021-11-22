@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.133">
+    <testcase classname="Verificar que esta na home page" name="Na pagina inicial pesquisar produto e seleciona-lo" time="13.947">
+        <system-out><![CDATA[Dado que estou na paginal inicial...........................................passed
+Quando nao estou logado.....................................................passed
+E o carrinho esta vazio.....................................................passed
+E pesquiso um produto.......................................................passed
+E seleciono o produto especifco.............................................passed
+Entao vai para a tela do produto especifico.................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
